@@ -1,4 +1,4 @@
-# Opt-In-Delivery
+# Live Pages
 
 Opt-in page - <http://quest.jeneth.com/playbook>
 
@@ -8,6 +8,6 @@ Delivery page - <http://quest.jeneth.com/playbook/?subscriber>
 
 ---
 
-# Design and User Flow
-
 User flow - <https://app.milanote.com/1FFupF148NQFdS>
+
+Email campaign - <https://www.behance.net/gallery/75208347/Landing-Page-and-Email-Course-Design-and-Development>
