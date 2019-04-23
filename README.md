@@ -1,3 +1,7 @@
 # Opt-In-Delivery
 
-<http://quest.jeneth.com/playbook>
+Opt-in page - <http://quest.jeneth.com/playbook>
+
+Thank you page - <http://quest.jeneth.com/playbook/?email>
+
+Delivery page - <http://quest.jeneth.com/playbook/?subscriber>
